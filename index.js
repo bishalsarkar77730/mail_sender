@@ -101,12 +101,18 @@ function resume_mail(mails) {
       </head>
       <body>
         <div class="container">
-            <h1>Application for Full Stack Developer Position</h1>
+            <h1>Application for Full-Stack Developer Position</h1>
             <p>Dear Sir/Ma'am,</p>
             <p>Warm greetings!</p>
-            <p>I am eager to apply for the Full Stack Developer position within your esteemed company. Please find my resume attached for your review. Should you require any further information or have any questions, please feel free to reach out.</p>
+            <p>I am eager to apply for the Full Stack Developer position in your company I have Total <b>2 years of experience as a MERN stack developer</b>. Please find my resume attached for your review. If you require any further information or have any questions, please feel free to reach out to me.</p>
+            <h3>My key skills are :- </h3>
+            <p><b>Language :- Javascript, python</b></p>
+            <p><b>framework :- Reactjs, Nextjs, Nodejs, expressjs</b></p>
+            <p><b>Css framework :- Bootstrap, Tailwind, ANTD</b></p>
+            <p><b>Database :- MongoDB, MySql, MsSql</b></p>
+            <p><b>Softwares :- Zoho, Github, jira</b></p>
             <div class="details">
-                <p><strong>Personal Details:</strong></p>
+                <h3><strong>Personal Details:</strong></h3>
                 <p>Name: Bishal Sarkar</p>
                 <p>Email: bishalsarkar.ml@gmail.com</p>
                 <p>Phone: +91-7773015690</p>
@@ -115,8 +121,8 @@ function resume_mail(mails) {
             <p class="signature">Best regards,<br>Bishal Sarkar</p>
             
             <!-- Image and Button Section -->
-            <a href="mailto:bishalsarkar.ml@gmail.com" class="button">Email Me</a>
-            <a href="https://bishalsarkar.co.in/" target="_blank" class="button">Portfolio</a>
+            <a href="mailto:bishalsarkar.ml@gmail.com" class="button" style="color: white; text-decoration: none; background-color: blue; padding: 10px; border-radius: 5px;">Email Me</a>
+<a href="https://bishalsarkar.co.in/" target="_blank" class="button" style="color: white; text-decoration: none; background-color: blue; padding: 10px; border-radius: 5px;">Portfolio</a>
         </div>
       </body>
       </html>
